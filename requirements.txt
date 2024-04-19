@@ -1,0 +1,9 @@
+pandas 
+numpy
+plotly
+streamlit
+tensorflow
+websocket-client
+matplotlib
+seaborn
+scikit-learn
